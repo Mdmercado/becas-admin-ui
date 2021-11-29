@@ -1,0 +1,9 @@
+.main {
+  margin: 0 auto;
+  margin-top: 180px;
+  padding: 30px;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
