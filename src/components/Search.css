@@ -6,4 +6,18 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.input {
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+.btn {
+  padding: 10px;
+  border-radius: 5px;
+  color: #ffff;
+  background-color: #138496;
+  cursor: pointer;
 }

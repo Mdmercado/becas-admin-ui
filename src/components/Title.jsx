@@ -6,7 +6,7 @@ function Title() {
   return (
     <div className="header">
       <h1>
-        ¡ Bienvenido al sitema de preinscripcion de becas {año_title + 1} !
+        ¡ Bienvenido al sistema de preinscripcion de becas {año_title + 1} !
       </h1>
     </div>
   );
